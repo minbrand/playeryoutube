@@ -31,7 +31,7 @@ export const Footer: React.FC = () => {
         
         <div className="mt-4 pt-4 border-t border-gray-700/30">
           <p className="text-center text-xs text-gray-500">
-            © 2024 Player de Vídeo White-Label. Todos os direitos reservados.
+            © 2025 Player de Vídeo White-Label. Todos os direitos reservados.
           </p>
         </div>
       </div>
