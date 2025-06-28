@@ -77,7 +77,7 @@ function App() {
       <div className="bg-gradient-to-r from-purple-600/20 to-pink-600/20 border-b border-purple-500/30 px-4 sm:px-6 py-2">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-center space-y-2 sm:space-y-0 sm:space-x-6 text-center">
           <a 
-            href="https://minbrand.com/lado-negro" 
+            href="https://sl.minbrand.com/lado-negro" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-xs sm:text-sm text-purple-200 hover:text-purple-100 transition-colors font-medium"
@@ -182,7 +182,7 @@ function App() {
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
                   <a 
-                    href="https://minbrand.com/lado-negro" 
+                    href="https://sl.minbrand.com/lado-negro" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="block p-3 sm:p-4 bg-purple-600/20 hover:bg-purple-600/30 border border-purple-500/30 rounded-lg transition-all duration-300 hover:scale-105"
