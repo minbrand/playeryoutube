@@ -53,7 +53,7 @@ export const PromoSection: React.FC = () => {
         <PromoBanner
           title="Aprenda ganhar dinheiro na internet com inteligência artificial"
           description="Descubra os segredos para monetizar com IA"
-          link="https://minbrand.com/lado-negro"
+          link="https://sl.minbrand.com/lado-negro"
           icon={<Zap className="text-yellow-400" />}
           gradient="bg-gradient-to-r from-purple-600/20 to-pink-600/20 border-purple-500"
         />
@@ -72,7 +72,7 @@ export const PromoSection: React.FC = () => {
         <h3 className="text-blue-300 font-semibold text-sm sm:text-base mb-2">💰 Transforme Conhecimento em Renda</h3>
         <div className="space-y-2">
           <a 
-            href="https://minbrand.com/lado-negro" 
+            href="https://sl.minbrand.com/lado-negro" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block text-xs sm:text-sm text-blue-200 hover:text-blue-100 transition-colors"
